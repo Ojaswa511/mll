@@ -1,0 +1,15 @@
+# Virtual Environment (the most important one to ignore)
+venv/
+env/
+.venv/
+
+# Trained Models (large binary files)
+*.pkl
+
+# Python system/cache files
+__pycache__/
+*.pyc
+
+# Local IDE settings
+.vscode/
+.idea/
